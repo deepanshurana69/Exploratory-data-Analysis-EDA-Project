@@ -55,19 +55,4 @@ Task2_EDA/
     └── price_distribution.png
 
  
- How to Run
-
-First run the Web Scraping project so that books.csv is available.
-
-Then run:
-
-python Task2_EDA/eda_books.py
-
  
- Key Learning Outcomes
-Data exploration with Pandas
-Statistical analysis
-Data quality checking
-Outlier detection
-Asking analytical questions
-Interpreting datasets
